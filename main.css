@@ -1,0 +1,38 @@
+.doNot {
+	background-color: blue;
+}
+
+.region {
+	background-color: green;
+	display:flex;
+}
+
+.tier {
+	background-color: yellow;
+	display:flex;
+}
+
+.special {
+	background-color: purple;
+	display:flex;
+}
+
+.evolve {
+	background-color: pink;
+	display:flex;
+}
+
+.iv {
+	background-color: red;
+	display:flex;
+}
+
+.misc {
+	background-color: orange;
+	display:flex;
+}
+
+textarea {
+	resize: none;
+	width: 100%;
+}
