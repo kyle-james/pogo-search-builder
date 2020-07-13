@@ -19,7 +19,7 @@ https://apps.apple.com/us/app/pokerater/id1138347836
 ~~I'd like to note; I have no affiliation with the developers of Pokemon Go, or the developer(s) of PokeRater. I'm simply trying to solve a problem that I (and others may) have, using tools at my disposal.
 
 ~~## Aternitavely, you can use three fingers and hold them on the search bar.
-This will open a small menu, and you can tap the paste button.
+This will open a small menu, and you can tap the paste button.~~
 
 Just copy and paste the generated string into the search bar in Pokemon GO.
 
